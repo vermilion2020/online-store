@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a623c93.css",
+    "main.js": "/static/js/main.51de6be4.js",
+    "static/js/787.a92fe09e.chunk.js": "/static/js/787.a92fe09e.chunk.js",
+    "static/media/vans-skate-old-school.jpg": "/static/media/vans-skate-old-school.7249114f59f3935184ff.jpg",
+    "static/media/vans-slip-on.jpg": "/static/media/vans-slip-on.79f93f713f5df24f54b1.jpg",
+    "static/media/puma-butter-goods.jpg": "/static/media/puma-butter-goods.bfc67e18516666e7863d.jpg",
+    "static/media/vans-decon.jpg": "/static/media/vans-decon.62065a52b531543391e3.jpg",
+    "static/media/dc-switch-shoe.jpg": "/static/media/dc-switch-shoe.e1db4f28f65858c33d5a.jpg",
+    "static/media/puma-suede-classic.jpg": "/static/media/puma-suede-classic.9f0ccf795f99100e22c5.jpg",
+    "static/media/vans-bmx-old-school.jpg": "/static/media/vans-bmx-old-school.4b674ce2c4e6f76a7025.jpg",
+    "static/media/quicksilver-shoebreak.jpg": "/static/media/quicksilver-shoebreak.563e1e0d4619ea13cb8f.jpg",
+    "static/media/dc-awersa.jpg": "/static/media/dc-awersa.a96432d7d52aef305e18.jpg",
+    "static/media/dc-magnolia.jpg": "/static/media/dc-magnolia.ec50927bdb7f1cc25d44.jpg",
+    "static/media/vans.png": "/static/media/vans.1205cd23582ddd76833e.png",
+    "static/media/puma.png": "/static/media/puma.7746f78995a0bfed8c62.png",
+    "index.html": "/index.html",
+    "main.4a623c93.css.map": "/static/css/main.4a623c93.css.map",
+    "main.51de6be4.js.map": "/static/js/main.51de6be4.js.map",
+    "787.a92fe09e.chunk.js.map": "/static/js/787.a92fe09e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a623c93.css",
+    "static/js/main.51de6be4.js"
+  ]
+}
