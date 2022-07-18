@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3a8fdd1.css",
-    "main.js": "/static/js/main.301f18dd.js",
+    "main.css": "/static/css/main.ea0985c8.css",
+    "main.js": "/static/js/main.8fc23d8e.js",
     "static/js/787.a92fe09e.chunk.js": "/static/js/787.a92fe09e.chunk.js",
     "static/media/vans-skate-old-school.jpg": "/static/media/vans-skate-old-school.7249114f59f3935184ff.jpg",
     "static/media/vans-slip-on.jpg": "/static/media/vans-slip-on.79f93f713f5df24f54b1.jpg",
@@ -13,15 +13,19 @@
     "static/media/quicksilver-shoebreak.jpg": "/static/media/quicksilver-shoebreak.563e1e0d4619ea13cb8f.jpg",
     "static/media/dc-awersa.jpg": "/static/media/dc-awersa.a96432d7d52aef305e18.jpg",
     "static/media/dc-magnolia.jpg": "/static/media/dc-magnolia.ec50927bdb7f1cc25d44.jpg",
+    "static/media/404.png": "/static/media/404.17d7994f097ec7e77966.png",
+    "static/media/logo.png": "/static/media/logo.d04cd9b319da985ba762.png",
+    "static/media/cross.png": "/static/media/cross.ee78cc813122e27ab170.png",
     "static/media/vans.png": "/static/media/vans.1205cd23582ddd76833e.png",
     "static/media/puma.png": "/static/media/puma.7746f78995a0bfed8c62.png",
+    "static/media/bucket.png": "/static/media/bucket.d50b9173b49ec28dd4b2.png",
     "index.html": "/index.html",
-    "main.c3a8fdd1.css.map": "/static/css/main.c3a8fdd1.css.map",
-    "main.301f18dd.js.map": "/static/js/main.301f18dd.js.map",
+    "main.ea0985c8.css.map": "/static/css/main.ea0985c8.css.map",
+    "main.8fc23d8e.js.map": "/static/js/main.8fc23d8e.js.map",
     "787.a92fe09e.chunk.js.map": "/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3a8fdd1.css",
-    "static/js/main.301f18dd.js"
+    "static/css/main.ea0985c8.css",
+    "static/js/main.8fc23d8e.js"
   ]
 }
