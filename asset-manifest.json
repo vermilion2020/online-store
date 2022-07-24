@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.80fad01d.css",
-    "main.js": "/static/js/main.1189d54f.js",
+    "main.css": "/static/css/main.1737acb2.css",
+    "main.js": "/static/js/main.dcd901ea.js",
     "static/js/787.a92fe09e.chunk.js": "/static/js/787.a92fe09e.chunk.js",
     "static/media/vans-skate-old-school.jpg": "/static/media/vans-skate-old-school.7249114f59f3935184ff.jpg",
     "static/media/vans-slip-on.jpg": "/static/media/vans-slip-on.79f93f713f5df24f54b1.jpg",
@@ -20,12 +20,12 @@
     "static/media/puma.png": "/static/media/puma.7746f78995a0bfed8c62.png",
     "static/media/bucket.png": "/static/media/bucket.d50b9173b49ec28dd4b2.png",
     "index.html": "/index.html",
-    "main.80fad01d.css.map": "/static/css/main.80fad01d.css.map",
-    "main.1189d54f.js.map": "/static/js/main.1189d54f.js.map",
+    "main.1737acb2.css.map": "/static/css/main.1737acb2.css.map",
+    "main.dcd901ea.js.map": "/static/js/main.dcd901ea.js.map",
     "787.a92fe09e.chunk.js.map": "/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80fad01d.css",
-    "static/js/main.1189d54f.js"
+    "static/css/main.1737acb2.css",
+    "static/js/main.dcd901ea.js"
   ]
 }
